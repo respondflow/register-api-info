@@ -83,7 +83,7 @@ Here are a few of the things we are considering, we welcome your feedback.
 
 ## HTTP responses with meta data updated
 
-Requests to endpoints fetching multiple resources will respond with a `meta` section. This section now includes a `total_count` field under `pagination`. See below. Please note that additional fields may be added in the future. This is temporary, once our API contracts are finalized we will not change them without releasing a new version. 
+Requests to endpoints fetching multiple resources will respond with a `meta` section. This section now includes a `total_count` field under `pagination`. See below. Please note that additional fields may be added in the future.
 
 Example:
 
