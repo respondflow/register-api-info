@@ -2,7 +2,7 @@
 
 ## Breaking Changes
 
-The following items are either planned, in development, or unreleased. We will update our API reference and also provide a changelog for easier integration with future changes.
+The following items are either planned, in development, or unreleased. We will update our [API reference](https://register-sandbox.ascri.be/docs) and also provide a changelog for easier integration with future changes.
 
 We are working on our versioning system to ensure that future changes don't break the implementation on your end. Please bear with us.
 
