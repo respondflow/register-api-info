@@ -6,10 +6,6 @@ The following items are either planned, in development, or unreleased. We will u
 
 We are working on our versioning system to ensure that future changes don't break the implementation on your end. Please bear with us.
 
-## Join us in slack
-
-We welcome your feedback. If you have any concerns or ideas for improving our API please don't hesitate to reach out to our developers here: 
-
 ## New routing structure
 
 We are working to make our API more RESTful. Some routes may change. No functionality will change, but the endpoint might. All changes will be documented in our API reference and provide a changelog for easier integration.
@@ -18,7 +14,7 @@ We are working to make our API more RESTful. Some routes may change. No function
 
 The HTTP error codes returned from the API will not change, but the response format will in order to provide more details. Eventually, all of our API's will follow a common error response format.
 
-Here a few of the things we are considering, we welcome your feedback. Catch us in our public slack channel here:
+Here a few of the things we are considering, we welcome your feedback.
 
 **Validation:**
 ```json
