@@ -14,7 +14,7 @@ We are working to make our API more RESTful. Some routes may change. No function
 
 The HTTP error codes returned from the API will not change, but the response format will in order to provide more details. Eventually, all of our API's will follow a common error response format.
 
-Here a few of the things we are considering, we welcome your feedback.
+Here are a few of the things we are considering, we welcome your feedback.
 
 **Validation:**
 ```json
