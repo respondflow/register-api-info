@@ -103,3 +103,7 @@ Example:
 ## Better sorting of resources
 
 API endpoints that return multiple resources will have the ability to be sorted by fields in both the top level `data` field and the `item` field.
+
+## Webhooks
+
+Our roadmap includes plans to develop customer facing webhooks, however we have not yet elaborated this system. If you have thoughts on the kind of data that you would like to see included in these hooks please get in contact with us. As we elaborate this system in the coming weeks we will update you with those details.
