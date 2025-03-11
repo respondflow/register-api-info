@@ -106,4 +106,6 @@ API endpoints that return multiple resources will have the ability to be sorted 
 
 ## Webhooks
 
-Our roadmap includes plans to develop customer facing webhooks, however we have not yet elaborated this system. If you have thoughts on the kind of data that you would like to see included in these hooks please get in contact with us. As we elaborate this system in the coming weeks we will update you with those details.
+Webhooks will allow API consumers to track changes in status or other fields made to registrations as it makes its way to approval.
+
+This system is in the planning phase. If you have thoughts on the kind of data you would like to see included, please get in contact with us. As we elaborate this system in the coming weeks we will update you with those details.
